@@ -95,4 +95,4 @@ I'm interested in developing reproducible research projects on:
 - [GitHub](https://github.com/DavisonElijah)
 - [Email](mailto:davisontsekeni@gmail.com)
 
-**Open to research-intensive industry opportunities and relocation across the United States.**
+**Open to research-intensive industry opportunities and relocation.**
