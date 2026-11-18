@@ -29,7 +29,7 @@ Developed an optimization framework integrating fitted spatiotemporal epidemic m
 - Implemented the approach in Python and Gurobi using lazy-constraint callbacks
 - Evaluated the framework on synthetic experiments and a 30-region Hurricane Sally case study
 
-**Research output:** Manuscript under review.
+**Publication:** [Safety](https://doi.org/10.3390/safety12060147)
 
 ### Dynamic Mobility Network Segmentation
 *Time-Series Analysis · Hierarchical Clustering · Spatiotemporal Modeling*
